@@ -1,0 +1,2 @@
+Developed an animated data visualization project to analyze global health metrics, including life expectancy, fertility rate, and population data from 1960 to 2016. Utilized Python libraries such as Pandas, Plotly, and Matplotlib for data preprocessing, merging, and interactive visualization. Successfully created an animated scatter plot that illustrates the relationship between fertility rate and life expectancy over time, categorized by world regions. This project highlights my skills in data manipulation, visualization, and storytelling through data.
+
